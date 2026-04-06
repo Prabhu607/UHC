@@ -1,6 +1,9 @@
-This is my begining code, just learn for git.
+This is my begining code.
+<html>
+<head>
+<body>
+<h1>ok, go head with git learning at the earliest. coming week, we plan for a demo. </h1>
+</body>
+</head>
+</html>
 
-git commands i learnt today
-1) git init
-2) git add
-3) got commit
